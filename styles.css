@@ -3,21 +3,6 @@ body {
   margin: 0px;
 }
 
-header {
-  height: 400px;
-  background-color: black;
-  color: white;
-  background-image: url("image-header.jpg");
-  background-position: center;
-  display: flex;
-  text-align: center;
-  flex-direction: column;
-}
-
-header div {
-  flex: 1;
-}
-
 main {
   padding: 20px
 }
